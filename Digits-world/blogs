@@ -9,7 +9,7 @@
 
 
 
-    <title>Reon | Solutions</title>
+    <title></title>
 
     <meta name="description" content="" />
 
@@ -432,7 +432,7 @@
                     <div class="col-12 col-lg-6 wow fadeInUp" data-wow-duration=".2s" data-wow-delay=".1s">
                         <div class="card blog-item p-2 p-md-5">
                             <div class="img-wrapper">
-                                <img src="http://reontel.com/images/blog/web-traffic.jpg" alt="" class="w-100" />
+                                <img src="" alt="" class="w-100" />
                                 <span>25.03.2022</span>
                             </div>
                             <a href="blog-detail">
@@ -449,7 +449,7 @@
                     <div class="col-12 col-lg-6 wow fadeInUp" data-wow-duration=".2s" data-wow-delay=".1s">
                         <div class="card blog-item p-2 p-md-5">
                             <div class="img-wrapper">
-                                <img src="http://reontel.com/images/blog/web-traffic.jpg" alt="" class="w-100" />
+                                <img src="" alt="" class="w-100" />
                                 <span>25.03.2022</span>
                             </div>
                             <a href="blog-detail">
@@ -466,7 +466,7 @@
                     <div class="col-12 col-lg-6 wow fadeInUp" data-wow-duration=".2s" data-wow-delay=".1s">
                         <div class="card blog-item p-2 p-md-5">
                             <div class="img-wrapper">
-                                <img src="http://reontel.com/images/blog/web-traffic.jpg" alt="" class="w-100" />
+                                <img src="" alt="" class="w-100" />
                                 <span>25.03.2022</span>
                             </div>
                             <a href="blog-detail">
@@ -483,7 +483,7 @@
                     <div class="col-12 col-lg-6 wow fadeInUp" data-wow-duration=".2s" data-wow-delay=".1s">
                         <div class="card blog-item p-2 p-md-5">
                             <div class="img-wrapper">
-                                <img src="http://reontel.com/images/blog/web-traffic.jpg" alt="" class="w-100" />
+                                <img src="" alt="" class="w-100" />
                                 <span>25.03.2022</span>
                             </div>
                             <a href="blog-detail">
@@ -553,12 +553,12 @@
                 <div class="col-12 col-md-3">
                     <h3 class="text-center text-md-left">Digits World Private Limited</h3>
                     <ul class="footer-links pl-1">
-                        <li class="text-center text-md-left add_"><a href="https://g.page/Reonsolutions?share" class="w-100">No.14, Room No. 17</a></li>
-                        <li class="text-center text-md-left add_"><a href="https://g.page/Reonsolutions?share" class="w-100">2nd Floor, Geo Infopark
+                        <li class="text-center text-md-left add_"><a href="" class="w-100">No.14, Room No. 17</a></li>
+                        <li class="text-center text-md-left add_"><a href="" class="w-100">2nd Floor, Geo Infopark
                         </a></li>
-                        <li class="text-center text-md-left add_"><a href="https://g.page/Reonsolutions?share" class="w-100">Kakkanad, Kochi, Kerala</a></li>
-                        <li class="text-center text-md-left add_"><a href="https://g.page/Reonsolutions?share" class="w-100">Pin: 682042</a></li>
-                        <li class="text-center text-md-left"><a href="mailto:info@reontel.com" class="w-100"><i class="fa fa-envelope mr-2"></i>info@reontel.com</a></li>
+                        <li class="text-center text-md-left add_"><a href="" class="w-100">Kakkanad, Kochi, Kerala</a></li>
+                        <li class="text-center text-md-left add_"><a href="" class="w-100">Pin: 682042</a></li>
+                        <li class="text-center text-md-left"><a href="mailto:" class="w-100"><i class="fa fa-envelope mr-2"></i></a></li>
                         <li class="text-center text-md-left"><a href="tel:+91 4872428119" class="w-100"><i class="fa fa-phone mr-2"></i>+91 4872428119</a></li>
                       
                     </ul>
@@ -571,7 +571,7 @@
                         <li class="text-center text-md-left"><a href="about" class="w-100">About</a></li>
                         <li class="text-center text-md-left"><a href="services" class="w-100"> Services</a></li>
                         <li class="text-center text-md-left"><a href="products" class="w-100"> Product</a></li>
-                        <li class="text-center text-md-left"><a href="our-partners" class="w-100"> Our Partners </a></li>
+                       
                         <li class="text-center text-md-left"><a href="blogs" class="w-100">Blogs</a></li>
                         <li class="text-center text-md-left"><a href="contact" class="w-100"> Contact </a></li>
                     </ul>
@@ -588,20 +588,9 @@
                         </div>
                         <div class="col-12 col-lg-6 text-center text-lg-right">
                             <ul class="list-inline my-auto social">
-                                <li class="list-inline-item pr-2">
-                                    <a href="https://www.facebook.com/Reonsolutions" target="_blank" class="text-dark" title="facebook"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li class="list-inline-item pr-2">
-                                    <a href="https://twitter.com/Reon_Tel" target="_blank" class="text-dark" title="twitter"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li class="list-inline-item pr-2">
-                                    <a href="https://www.youtube.com/channel/UCuNTv_kGAwc9vV6JNfBuo5w" target="_blank" class="text-dark" title="dribbble"><i class="fa fa-youtube"></i></a>
-                                </li>
-                                <li class="list-inline-item pr-2">
-                                    <a href="https://www.instagram.com/reonsolutions" target="_blank" class="text-dark" title="pinterest"><i class="fa fa-instagram"></i></a>
-                                </li>
+                               
                                 <li class="pr-0 list-inline-item pr-0">
-                                    <a href="https://www.linkedin.com/company/reontechnologies/" target="_blank" class="text-dark" title="linkedin"><i class="fa fa-linkedin"></i></a>
+                                    <a href="" target="_blank" class="text-dark" title="linkedin"><i class="fa fa-linkedin"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -649,7 +638,7 @@ if (window.innerWidth > 992) {
 </script>
 
 <!-- 
-        Reon 
+    
         30112021 -->        <!-- End Footer -->
     </div>
     <!-- End Main Wrap -->

@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="canonical" href="https://www.reontel.com/about">
+    
     <title>Top Digital Transformation Solution Providers in Kerala| Digits world</title>
 
     <meta name="description" content="As one of the top Digital transformation solution providers in Kerala, we upgrade and innovate digital transformation solutions to business worldwide to accelerate  their bussiness growth" />
@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top Digital Transformation Solution Providers in Kerala | Digits worldtel" />
     <meta property="og:description" content="As one of the top Digital transformation solution providers in Kerala, we upgrade and innovate digital transformation solutions to business worldwide to accelerate  their bussiness growth" />
-    <meta property=" og:url" content="https://www.reontel.com/about" />
+    
     <meta property="og:image" content="https://reontel.com/assets/images/og-image.png">
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="300" />
@@ -700,9 +700,7 @@
                                                 </p> -->
                                                 <p class="social d-flex">
 
-                                                    <a href="#"> <i class="fa fa-facebook-square mr-3"></i></a>
-                                                    <a href="https://www.instagram.com/reonsolutions/"> <i class="fa fa-instagram mr-3"></i></a>
-                                                    <a href="#"> <i class="fa fa-linkedin"></i></a>
+                                                    
                                                 </p>
                                             </div>
                                         </div>

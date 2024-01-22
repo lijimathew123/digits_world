@@ -5,17 +5,15 @@
 <head>
    <meta charset="utf-8" />
    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-   <link rel="canonical" href="https://www.reontel.com/web-app-development">
+
    <title> Web Applications Dubai, Best Web App Development Company in kerala</title>
 
-   <meta name="description" content="Reon  Technologies, the best web app Development Company in Dubai, kerala provides user-friendly web applications development services for with experienced web app developers. Call us - +971 565602357 fro your requirements" />
-   <meta name="Keywords" content="Custom web application development, Webite development company, Web app development services, custom Web application development company, Web application development cservices, Custom web application development services, Web applications development in Dubai, App developers in Dubai,  App development company, Web development services, Web applciation devlopment softwares" />
+  
+  
    <meta property="og:locale" content="en_US" />
    <meta property="og:type" content="website" />
-   <meta property="og:title" content="Web Applications Dubai, Best Web App Development Company in kerala" />
-   <meta property="og:description" content="Reon  Technologies, the best web app Development Company in Dubai, kerala provides user-friendly web applications development services for with experienced web app developers. Call us - +971 565602357 fro your requirements" />
-   <meta property=" og:url" content="https://www.reontel.com/web-app-development" />
-   <meta property="og:image" content="https://reontel.com/assets/images/og-image.png">
+  
+  
    <meta property="og:image:width" content="500" />
    <meta property="og:image:height" content="300" />
    <meta property="og:site_name" content="Digits world" />
@@ -1118,18 +1116,18 @@
                 <div class="col-12 col-md-3 border-right-dashed align-content-center d-flex">
 
 
-                    <!-- <amp-img src="assets/images/reon_black_logo.webp" class="img-fluid m-auto" alt="reon_black_logo"> -->
+                  
 
                      <amp-img class="img-fluid w-75 m-auto" src="assets/images/digitsworld-logo.png" alt="solution.png" layout="responsive" width="800" height="600"> </amp-img>
                 </div>
                 <div class="col-12 col-md-3">
                   <h3 class="text-center text-md-left">Digits World Private Limited</h3>
                   <ul class="footer-links pl-1">
-                      <li class="text-center text-md-left add_"><a href="https://g.page/Reonsolutions?share" class="w-100">No.14, Room No. 17</a></li>
-                      <li class="text-center text-md-left add_"><a href="https://g.page/Reonsolutions?share" class="w-100">2nd Floor, Geo Infopark
+                      <li class="text-center text-md-left add_"><a href="  " class="w-100">No.14, Room No. 17</a></li>
+                      <li class="text-center text-md-left add_"><a href="  " class="w-100">2nd Floor, Geo Infopark
                       </a></li>
-                      <li class="text-center text-md-left add_"><a href="https://g.page/Reonsolutions?share" class="w-100">Kakkanad, Kochi, Kerala</a></li>
-                      <li class="text-center text-md-left add_"><a href="https://g.page/Reonsolutions?share" class="w-100">Pin: 682042</a></li>
+                      <li class="text-center text-md-left add_"><a href="  " class="w-100">Kakkanad, Kochi, Kerala</a></li>
+                      <li class="text-center text-md-left add_"><a href="  " class="w-100">Pin: 682042</a></li>
                         <li class="text-center text-md-left"><a href="director@digitsworld.com" class="w-100"><i class="fa fa-envelope mr-2"></i>director@digitsworld.com</a></li>
                         <li class="text-center text-md-left"><a href="tel:+91 7510537069
                            " class="w-100"><i class="fa fa-phone mr-2"></i>+91 7510537069</a></li>
@@ -1144,7 +1142,7 @@
                         <li class="text-center text-md-left"><a href="about" class="w-100">About</a></li>
                         <li class="text-center text-md-left"><a href="services" class="w-100"> Services</a></li>
                         <li class="text-center text-md-left"><a href="products" class="w-100"> Product</a></li>
-                        <li class="text-center text-md-left"><a href="our-partners" class="w-100"> Our Partners </a></li>
+                     
                        
                         <li class="text-center text-md-left"><a href="contact" class="w-100"> Contact </a></li>
                     </ul>
@@ -1211,7 +1209,7 @@ if (window.innerWidth > 992) {
 </script>
 
 <!-- 
-        Reon 
+     
         30112021 -->
    <!-- End Footer -->
 

@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <title>Reon | Solutions</title>
+    <title>Digits world | Solutions</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
@@ -502,7 +502,7 @@
                         <li class="text-center text-md-left"><a href="about" class="w-100">About</a></li>
                         <li class="text-center text-md-left"><a href="services" class="w-100"> Services</a></li>
                         <li class="text-center text-md-left"><a href="products" class="w-100"> Product</a></li>
-                        <li class="text-center text-md-left"><a href="our-partners" class="w-100"> Our Partners </a></li>
+                        
                         <li class="text-center text-md-left"><a href="blogs" class="w-100">Blogs</a></li>
                         <li class="text-center text-md-left"><a href="contact" class="w-100"> Contact </a></li>
                     </ul>
@@ -514,25 +514,14 @@
                     <div class="row text-lg-left text-center text-dark-skin pt-3">
                         <div class="col-12 col-lg-6">
                             <p class="text-dark">
-                                Copyright @ 2021 Reon Technologies. | All right reserved.
+                                Copyright @ 2024 Digits world Technologies. | All right reserved.
                             </p>
                         </div>
                         <div class="col-12 col-lg-6 text-center text-lg-right">
                             <ul class="list-inline my-auto social">
-                                <li class="list-inline-item pr-2">
-                                    <a href="https://www.facebook.com/Reonsolutions" target="_blank" class="text-dark" title="facebook"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li class="list-inline-item pr-2">
-                                    <a href="https://twitter.com/Reon_Tel" target="_blank" class="text-dark" title="twitter"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li class="list-inline-item pr-2">
-                                    <a href="https://www.youtube.com/channel/UCuNTv_kGAwc9vV6JNfBuo5w" target="_blank" class="text-dark" title="dribbble"><i class="fa fa-youtube"></i></a>
-                                </li>
-                                <li class="list-inline-item pr-2">
-                                    <a href="https://www.instagram.com/reonsolutions" target="_blank" class="text-dark" title="pinterest"><i class="fa fa-instagram"></i></a>
-                                </li>
+                               
                                 <li class="pr-0 list-inline-item pr-0">
-                                    <a href="https://www.linkedin.com/company/reontechnologies/" target="_blank" class="text-dark" title="linkedin"><i class="fa fa-linkedin"></i></a>
+                                    <a href="" target="_blank" class="text-dark" title="linkedin"><i class="fa fa-linkedin"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -580,7 +569,7 @@ if (window.innerWidth > 992) {
 </script>
 
 <!-- 
-        Reon 
+        
         30112021 -->        <!-- End Footer -->
     </div>
     <!-- End Main Wrap -->
